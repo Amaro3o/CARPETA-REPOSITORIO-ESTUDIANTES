@@ -47,5 +47,5 @@ imagen con links: [![Texto alternativo](url-imagen)](url-destino)   ( url imagen
 [![web](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PuyNK1KxGm1uyBsb9B14L5n__48-FHHx1g&s)](https://portalinnova.cl/con-estos-tips-y-aplicaciones-tendras-fotos-y-videos-como-un-profesional/)
 
 
-BLOQUE DE CODIGOS 
+
 
