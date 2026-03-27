@@ -45,3 +45,16 @@ B:Brightness 0 - 100
 H: Hue
 S: Saturacion
 L: Lightness
+
+{Dibujar en p5.js}: funciona con un sistema de coordenadas (x,y)
+
+Stroke:
+stroke(v1,v2,v3, [alpha])
+Ej: stroke(245,0,0)
+
+strokeWeight:
+strokeWeight(25);
+
+Fill(valores en RGB)
+
+
