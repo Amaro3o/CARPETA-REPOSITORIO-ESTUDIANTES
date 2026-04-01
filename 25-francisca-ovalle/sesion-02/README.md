@@ -1,7 +1,11 @@
-# sesión 03 - 27/03
+# sesión 02 - 20/03
 ---
-## Exposición cybernetic: 
-Serendipy fuera la primera expo en congregar a distintos artistas de diversas áreas como computación, tecnologia, etc.
+## Arquitectura del pesamiento
+**Maquina diferencial:** ***Charles Babbage*** diseñó una maquina para *sistematizar el cálculo* y la tabulación de funciones polinómicas, tareas que hasta ese entonces solamente eran manuales. Era a gran escala intregrada por engranajes que calculaban ecuaciones e imprimian en formato de tablas matematicas.  
+
+**Maquina diferencial II:** en 1991 el ***Museo de Ciencias de Londres*** construyó la ***Difference Engine N°2***, siguiendo los planos originales de Babbage construyeron exactamente igual la maquinaria, demostrando que era totalmente funcional y que en la época de Babbage con una buena organización hubiera funcionado.
+
+**Exposición cybernetic:** Serendipy fuera la primera expo en congregar a distintos artistas de diversas áreas como computación, tecnologia, etc.
 Arte cibernetica apoyó en el campo de las artes, tecnologias e investigaciones convocando a distintos artistas, musicos, etc.
 
 ***John y James Withney*** modificaron maquinas para la guerra especificamente para combate aereo y las transformaban en computadoras, en donde se introducian variables y usaban la luz sobre la celuloide para crear movimientos.
