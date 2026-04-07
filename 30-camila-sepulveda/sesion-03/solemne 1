@@ -53,7 +53,9 @@ el termino **W** representa el ancho de una figura, que esta presente en el arco
 Otro termino utilizado fue el **strart** y **stop**, representando el comienzo y termino del ángulo de un arco.
 
 **fill** es el color de relleno  dentro de las figuras, si se quiere cambiar de color, se debe volver a aplicar sobre la figura que quiere ser modificada.
-el color se emplea a traves del codigo de color **RGB**. 
+el color se emplea a traves del codigo de color **RGB**, pero tambien está el **noFill**, que fue un descubrimiento más instutivo y personal el encontrarlo,
+ya que no sabia que se podia hacer, pero guiandome con los otros mecanismos de coordenas saque la conclución de que eliminaba el color de relleno de una 
+ficura.
 
 **strokeCap** define la terminación de la linea, en mi caso utilice la **SQUARE**. 
 
@@ -62,8 +64,8 @@ contorno de la figura, de un punto o linea. En cambio el **NoStroke** se utiliza
 una figura. 
 
 
-
-Para este proyecto 
+Para este proyecto además utulice otras coordenadas geometricas más intuitivas, como el **point, line, rect, ellipse, circle, square y triangle**, donde 
+todas se basan de la coordenada **X** e **Y**. 
 
 
 ### Resultado:
