@@ -74,9 +74,9 @@ COMO SE HACEN LAS FIGURAS:
 
 SOLEMNE 1: CREAR UN DIBUJO INSPIRADO EN UNA PINTURA DE ARTE ABSTRACTO:
 mi referente: Hilma Af Klint, Svanen nr 17  
-[![svanen, nr 17](https://artequinvina.cl/wp-content/uploads/2024/11/Hilma_af_Klint_Svanen.jpg)
+![svanen, nr 17](https://artequinvina.cl/wp-content/uploads/2024/11/Hilma_af_Klint_Svanen.jpg)
 
-
+version 1 de mi dibujo: ![dibujo geométrico ](https://github.com/user-attachments/assets/9ee6a81a-9e5e-4f53-ba34-6ca2efc28a9c)
 
 
 
