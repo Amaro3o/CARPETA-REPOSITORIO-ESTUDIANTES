@@ -72,4 +72,6 @@ Para dibujar en p5.js se debe entender que el *Canvas* funciona con un **Sistema
 ### Relleno de color  
 - ```fill(v1,v2,v3, [alpha]);```: Establece el color del relleno para las figuras.
 
+![Gato](https://i.pinimg.com/736x/58/b9/aa/58b9aac1da7597fa40825282bc9d3cf7.jpg)
+
  
